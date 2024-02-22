@@ -18,8 +18,8 @@ An active Azure SQL database with the required schema setup
 Clone the repository:
 
 bash
-`git clone https://yourrepositorylink.com/yourproject.git
-cd yourproject`
+`git clone https://yourrepositorylink.com/yourproject.git`
+`cd yourproject`
 Set up a virtual environment (optional):
 bash
 `python -m venv venv
